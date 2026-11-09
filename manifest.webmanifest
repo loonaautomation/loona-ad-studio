@@ -1,0 +1,28 @@
+{
+  "name": "Loona Ad Studio",
+  "short_name": "Ad Studio",
+  "description": "Turn a product photo or text prompt into a ready-to-post video ad in seconds. Free online video ad maker: 15\u201360s videos, 16:9 or 9:16, no skills needed.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
